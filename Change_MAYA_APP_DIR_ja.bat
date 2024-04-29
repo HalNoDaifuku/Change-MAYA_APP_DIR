@@ -1,7 +1,7 @@
 @echo off
 title Change MAYA_APP_DIR
 
-rem ’x‰„ŠÂ‹«•Ï”‚É‘Î‰‚³‚¹‚é
+rem ’x‰„ŠÂ‹«•Ï”
 setlocal enabledelayedexpansion
 
 rem Œ¾Œê
