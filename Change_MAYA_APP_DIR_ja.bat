@@ -7,12 +7,12 @@ setlocal enabledelayedexpansion
 rem 言語
 set lang_message_warning=このバッチファイルは自己責任で実行してください！`n本当に実行しますか？
 set lang_message_warning_title=注意
-set lang_message_select_folder=Mayaの設定ファイルなどを格納するフォルダを以下に変更しようとしています。`n$env:selected_folder`nよろしいですか？`n「いいえ」を押すとフォルダを選択するウィンドウが開きます。
+set lang_message_select_folder=Mayaの設定ファイルなどを格納するフォルダを以下に変更しようとしています。`nよろしいですか？`n「いいえ」を押すとフォルダを選択するウィンドウが開きます。`n`n$env:selected_folder
 set lang_message_select_folder_title=
 set lang_select_folder_title=変更先のフォルダを選択し、「OK」を押してください。
 set lang_message_check_folder_warning=使用できない文字が検出されました！`n半角英数字記号のみを含むフォルダを選択してください。`nキャンセルを押すと強制終了します。
 set lang_message_check_folder_warning_title=エラー
-set lang_message_confirm=以下のフォルダに変更しました。`n$env:selected_folder`n必要に応じて元のフォルダからコピーを行ってください。
+set lang_message_confirm=以下のフォルダに変更しました。`n必要に応じて元のフォルダからコピーを行ってください。`n`n$env:selected_folder
 set lang_message_confirm_title=
 
 rem デフォルトのフォルダ
