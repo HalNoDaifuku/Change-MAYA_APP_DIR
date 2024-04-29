@@ -13,7 +13,7 @@
 
 |English|日本語|
 |-|-|
-|<a href="Change_MAYA_APP_DIR_en.bat" download="Change_MAYA_APP_DIR_en.bat">Download</a>|<a href="Change_MAYA_APP_DIR_ja.bat" download="Change_MAYA_APP_DIR_ja.bat">Download</a>|
+|<a href="https://github.com/HalNoDaifuku/Change-MAYA_APP_DIR/raw/main/Change_MAYA_APP_DIR_en.bat" download="Change_MAYA_APP_DIR_en.bat">Download</a>|<a href="https://github.com/HalNoDaifuku/Change-MAYA_APP_DIR/raw/main/Change_MAYA_APP_DIR_ja.bat" download="Change_MAYA_APP_DIR_ja.bat">Download</a>|
 
 ## How to use
 
