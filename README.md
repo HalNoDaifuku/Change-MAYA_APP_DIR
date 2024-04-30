@@ -23,7 +23,7 @@
 
 |English|日本語|
 |-|-|
-|[Download](https://github.com/HalNoDaifuku/Change-MAYA_APP_DIR/releases/latest/download/Change_MAYA_APP_DIR_en.bat)|[Download](https://github.com/HalNoDaifuku/Change-MAYA_APP_DIR/releases/latest/download/Change_MAYA_APP_DIR_ja.bat)|
+|[Download](https://github.com/HalNoDaifuku/Set-MAYA_APP_DIR/releases/latest/download/Set_MAYA_APP_DIR_en.bat)|[Download](https://github.com/HalNoDaifuku/Set-MAYA_APP_DIR/releases/latest/download/Set_MAYA_APP_DIR_ja.bat)|
 
 ## How to use
 
