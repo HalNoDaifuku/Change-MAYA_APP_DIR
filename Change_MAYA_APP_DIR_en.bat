@@ -23,8 +23,8 @@ set lang_message_confirm=The following folder was changed.`nCopy from the origin
 set lang_message_confirm_title=
 
 rem Display version
-echo Set MAYA_APP_DIR (%lang_version%) %version%
-echo.
+call :console_log "Set MAYA_APP_DIR (%lang_version%) %version%"
+call :console_log
 
 rem Warning message
 rem Reference: https://qiita.com/aromatibus/items/c1e7b27a8ba1ed07982b

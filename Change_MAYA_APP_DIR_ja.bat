@@ -23,8 +23,8 @@ set lang_message_confirm=ˆÈ‰º‚ÌƒtƒHƒ‹ƒ_‚É•ÏX‚µ‚Ü‚µ‚½B`n•K—v‚É‰‚¶‚ÄŒ³‚ÌƒtƒHƒ‹ƒ
 set lang_message_confirm_title=
 
 rem ƒo[ƒWƒ‡ƒ“‚ğ•\¦
-echo Set MAYA_APP_DIR (%lang_version%) %version%
-echo.
+call :console_log "Set MAYA_APP_DIR (%lang_version%) %version%"
+call :console_log
 
 rem ©ŒÈÓ”C‚Ì’ˆÓƒƒbƒZ[ƒW
 rem Ql: https://qiita.com/aromatibus/items/c1e7b27a8ba1ed07982b
