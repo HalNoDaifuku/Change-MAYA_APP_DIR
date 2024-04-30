@@ -1,5 +1,5 @@
 <h1 align="center">
-    Change MAYA_APP_DIR (WIP)
+    Set MAYA_APP_DIR (WIP)
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
     <b>日本語</b>
 </p>
 
-<h4 align="center">MAYA_APP_DIRを安全に変更</h4>
+<h4 align="center">MAYA_APP_DIRを安全に設定</h4>
 
 ## ダウンロード
 

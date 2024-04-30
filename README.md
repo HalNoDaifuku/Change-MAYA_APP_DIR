@@ -1,5 +1,5 @@
 <h1 align="center">
-    Change MAYA_APP_DIR (WIP)
+    Set MAYA_APP_DIR (WIP)
 </h1>
 
 <h4 align="center">
