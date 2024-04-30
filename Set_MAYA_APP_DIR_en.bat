@@ -5,7 +5,7 @@ rem Delayed Expansion
 setlocal enabledelayedexpansion
 
 rem Version
-set version=v0.1.1
+set version=v0.1.2
 
 rem Default folder
 set selected_folder=%USERPROFILE%\Documents\maya
