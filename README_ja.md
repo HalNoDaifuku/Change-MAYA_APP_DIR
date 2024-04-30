@@ -7,7 +7,17 @@
     <b>日本語</b>
 </p>
 
-<h4 align="center">MAYA_APP_DIRを安全に設定</h4>
+<h4 align="center">MAYA_APP_DIRを簡単&安全に設定</h4>
+
+## 特徴
+
+- 初心者に優しいGUI。
+- 使用できない文字を自動検出。
+
+## システム要件
+
+- Windows
+- PowerShell
 
 ## ダウンロード
 

@@ -7,7 +7,17 @@
     <a href="README_ja.md">日本語</a>
 </h4>
 
-<h4 align="center">Set MAYA_APP_DIR safely.</h4>
+<h4 align="center">Easy & safe configuration of MAYA_APP_DIR</h4>
+
+## Features
+
+- Beginner-friendly GUI.
+- Automatic detection of unusable characters.
+
+## System requirements
+
+- Windows
+- PowerShell
 
 ## Download
 
