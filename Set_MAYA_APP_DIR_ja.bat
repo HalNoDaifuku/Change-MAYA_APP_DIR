@@ -5,7 +5,7 @@ rem 遅延環境変数
 setlocal enabledelayedexpansion
 
 rem バージョン
-set version=v0.1.2
+set version=v0.2.0
 
 rem デフォルトのフォルダ
 set selected_folder=%USERPROFILE%\Documents\maya
