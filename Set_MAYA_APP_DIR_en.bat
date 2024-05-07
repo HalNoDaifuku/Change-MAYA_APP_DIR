@@ -24,6 +24,8 @@ set lang_message_confirm_title=
 
 rem Display version
 call :console_log "Set MAYA_APP_DIR (%lang_version%) %version%"
+call :console_log "-------------------------------------------------------"
+call :console_log "Below is the log."
 call :console_log
 
 rem Warning message

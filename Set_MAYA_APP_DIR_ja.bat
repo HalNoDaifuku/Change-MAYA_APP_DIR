@@ -24,6 +24,8 @@ set lang_message_confirm_title=
 
 rem バージョンを表示
 call :console_log "Set MAYA_APP_DIR (%lang_version%) %version%"
+call :console_log "-------------------------------------------------------"
+call :console_log "以下はログです。"
 call :console_log
 
 rem 自己責任の注意メッセージ
