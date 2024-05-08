@@ -93,6 +93,6 @@ set ps_message_confirm="Add-Type -AssemblyName System.Windows.Forms; $result = [
 powershell -Command %ps_message_confirm%
 
 :console_log
-rem コンソールログ
+rem Console log
 echo [%date:~0,4%/%date:~5,2%/%date:~8,2% %time:~0,2%:%time:~3,2%:%time:~6,2%] : %1
 exit /b
